@@ -3,14 +3,11 @@ title: "Deindustrialization and the Demand for Protection"
 authors:
 - Heather K. Ba
 - Tyler Coleman
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2021-01-25T00:00:00Z"
 doi: "10.1017/bap.2020.17"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -55,12 +52,12 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects: []
+ projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+ slides: ""
 ---
