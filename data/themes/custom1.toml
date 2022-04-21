@@ -5,17 +5,17 @@ name = "custom1"
 light = true
 
 # Primary
-primary = "#0B2161"
+primary = "#690000"
 
 # Menu
-menu_primary = "#E0ECF8"
-menu_text = "#0B2161"
-menu_text_active = "#045FB4"
-menu_title = "#0B2161"
+menu_primary = "#fff2d7"
+menu_text = "#690000"
+menu_text_active = "#b47674"
+menu_title = "#690000"
 
 # Home sections
-home_section_odd = "#EFF5FB"
-home_section_even = "#E0ECF8"
+home_section_odd = "#fffaf0"
+home_section_even = "#fff2d7"
 
 # links
 link = "#2980B9"
