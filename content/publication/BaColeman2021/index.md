@@ -27,7 +27,7 @@ abstract: Current explanations of demand for anti-dumping protections focus on t
 tags: []
 
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: "Deindustrialization and the Demand for Protection"
