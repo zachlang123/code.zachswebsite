@@ -18,8 +18,8 @@ home_section_odd = "#fffaf0"
 home_section_even = "#fff2d7"
 
 # links
-link = "#2980B9"
-link_hover = "#87bfe4"
+link = "#690000"
+link_hover = "#b47674"
 
 [dark]
   link = "#bbdefb"
