@@ -6,7 +6,7 @@ title: "An example conference paper"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Heather K. Ba
-- admin
+- Tyler Coleman
 
 # Author notes (optional)
 author_notes:
@@ -32,7 +32,7 @@ publication_short: In *B&P*
 abstract: Current explanations of demand for anti-dumping protections focus on the role of the business cycle, and fluctuations in real exchange rates. However, empirical evidence supporting these explanations is based pri- marily on the experience of industrialized countries. Here, we examine anti-dumping petitions in a broader sample of thirty-four industrialized and middle income countries from 1978–2015. We also propose a new determinant of demand for anti-dumping petitions—changes in the pattern of industrial production between developed and developing economies over this period have contributed to deindustrialization in advanced economies and premature industrialization some developing countries. These changes threaten established industries and motivate them to demand protection.
 
 # Summary. An optional shortened abstract.
-#summary: ''
+# summary:
 
 tags: []
 
@@ -53,25 +53,3 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
- # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ""
-#  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-# projects:
-# - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-# slides: example
-# ---
