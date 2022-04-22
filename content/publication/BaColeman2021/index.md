@@ -25,11 +25,11 @@ abstract: Current explanations of demand for anti-dumping protections focus on t
 # summary: 
 
 tags: 
- - protectionism
- - antidumping
- - deindustrialization
- - trade
- - political institutions
+- protectionism
+- antidumping
+- deindustrialization
+- trade
+- political institutions
 
 # Display this page in the Featured widget?
 featured: true
