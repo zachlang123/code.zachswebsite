@@ -24,6 +24,6 @@ weight = 20
 # Ba, Heather K., & Coleman, Tyler. 2021. ["Deindustrialization and the Demand for Protection"](https://www.tyler-coleman.com/publication/bacoleman2021). _Business and Politics_, 23(2), 264-281. [doi:10.1017/bap.2020.17](https://doi.org/10.1017/bap.2020.17).
 
 
-Anstett, Robert, & Authement, Jacob. 2022. [”Comparing and Contrasting Political Institutions of the State of Missouri, the United States, and Other States”](https://www.jacobauthement.com/publication/AnstettAuthement2022a) in James W. Endersby (Ed.) [Readings in American Politics 3rd ed.] W.W. Norton & Company. (editor-reviewed)
+Anstett, Robert, & Authement, Jacob. 2022. [”Comparing and Contrasting the U.S. and Missouri Constitutions”](https://www.jacobauthement.com/publication/AnstettAuthement2022a) in James W. Endersby (Ed.) [Readings in American Politics 3rd ed.] W.W. Norton & Company. (editor-reviewed)
 
-Anstett, Robert, & Authement, Jacob. 2022. [”Comparing and Contrasting the U.S. and Missouri Constitutions”](https://www.jacobauthement.com/publication/AnstettAuthement2022b) in James W. Endersby (Ed.) [Readings in American Politics 3rd ed.] W.W. Norton & Company. (editor-reviewed)
+Anstett, Robert, & Authement, Jacob. 2022. [”Comparing and Contrasting Political Institutions of the State of Missouri, the United States, and Other States”](https://www.jacobauthement.com/publication/AnstettAuthement2022b) in James W. Endersby (Ed.) [Readings in American Politics 3rd ed.] W.W. Norton & Company. (editor-reviewed)
