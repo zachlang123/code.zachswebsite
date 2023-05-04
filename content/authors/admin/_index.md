@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tyler Coleman
+title: Jacob Authement
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,27 +14,23 @@ organizations:
   # url: https://www.missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include international political economy, globalization and development, and the politics of protectionism.
+bio: My research interests include American state politics, American political institutions, and interest groups.
 
 # Interests to show in About widget
 interests:
-- International Political Economy
-- Globalization and Development
-- Politics of Protectionism
-- Interstate Conflict and Peace
-- Foreign Direct Investment and Terrorism
-- Comparative Political Economy
-- Globalization and Party Membership
+- American State Politics
+- American Political Institutions
+- Interest Group Politics
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Political Science
     institution: University of Missouri
-    year: 2023 (expected)
-  - course: B.S. in Political Science
-    institution: Missouri Southern State University
-    year: 2018
+    year: 2024 (expected)
+  - course: BA in Political Science and English Folklore
+    institution: University of Louisiana at Lafayette
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,19 +39,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:tcc96h@mail.missouri.edu'
-
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=5hyEEbgAAAAJ&hl=en&oi=ao
-
+  link: 'mailto:jauthement@mail.missouri.edu'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/Jacob_Authement
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/TylerCColeman
-
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/
+  link: https://github.com/JacobAuthement
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jacob-authement-35a986251
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -71,6 +67,10 @@ social:
 highlight_name: false
 ---
 
-I am a Political Science PhD Candidate at the Harry S Truman School of Government and Public Affairs. Before coming to the University of Missouri, I received my B.S. in Political Science from Missouri Southern State University. Professionally, my research interests include antidumping protectionism and globalization, with a side interest in foreign direct investment and civil wars. Much of my research focuses on the relationship between antidumping protectionism and globalization, with specific focus on international market volatility and how national integration within globalized markets influences demand for antidumping protectionism. In terms of my side interests, I am particularly interested in how the onset and duration of civil wars impact patterns of foreign direct investment flows across countries. 
+_Hi! First things first, it's pronounced "Oh-Tee-Mon." Please, just call me Jacob._
 
-To provide some non-academic context, I was born in a small town in Kansas called Richmond. Soon after, I moved to Joplin, a town located in Southwestern Missouri. While I was born in Kansas, I consider myself raised as a Missourian through-and-through. When I am not buried in documents about antidumping cases or other academic work, I can usually be found playing loud rock music on my guitar and taking a long walk on the beach in the evenings (in a land-locked state, of course). 
+I am a political science PhD candidate at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. Before moving to Missouri, I recieved my BA in Political Science from the [University of Louisiana at Lafayette](https://politicalscience.louisiana.edu) _(Geaux Cajuns!)_. Professionally, my research interests include American state politics, American political institutions, interest groups, and legislative expertise. My dissertation research focuses on the procedural expertise state legislatures, committees, and legislators accrue through time and how (or if) they replace this expertise in the face of shorter time horizons.
+
+You can download a copy of my Curriculum Vitae {{< staticref "Authement_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+
+As a bit of non-academic background, I was born and raised in the small town of Chauvin, located on the bayous of South Louisiana. I have several years of experience working in both state and local politics in Louisiana (through the Louisiana State Legislature and Lafayette Consolidated Government, respectively). If I am not researching state legislatures, you can usually find me waxing nostalgic about Louisiana cuisine, scrolling on Twitter to find new sneakers to buy, or speedrunning a video game... or probably a combination of all three.
