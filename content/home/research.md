@@ -22,9 +22,9 @@ weight = 20
 
 
 +++
-<h2>Peer-Reviewed Journal Articles</h2>
+<h2>Editor-Reviewed Journal Articles</h2>
 
 
-Anstett, Robert, & Authement, Jacob. 2022. [”Comparing and Contrasting the U.S. and Missouri Constitutions”](https://www.jacobauthement.com/publication/AnstettAuthement2022a) in James W. Endersby (Ed.) <u>Readings in American Politics 3rd ed.</u> W.W. Norton & Company. (editor-reviewed)
+Anstett, Robert, & Authement, Jacob. 2022. [”Comparing and Contrasting the U.S. and Missouri Constitutions”](https://www.jacobauthement.com/publication/AnstettAuthement2022a) in <u>Readings in American Politics, 3rd ed.</u> W.W. Norton & Company. edited by James W. Endersby
 
-Anstett, Robert, & Authement, Jacob. 2022. [”Comparing and Contrasting Political Institutions of the State of Missouri, the United States, and Other States”](https://www.jacobauthement.com/publication/AnstettAuthement2022b) in James W. Endersby (Ed.) [Readings in American Politics 3rd ed.] W.W. Norton & Company. (editor-reviewed)
+Anstett, Robert, & Authement, Jacob. 2022. [”Comparing and Contrasting Political Institutions of the State of Missouri, the United States, and Other States”](https://www.jacobauthement.com/publication/AnstettAuthement2022b) in <u>Readings in American Politics, 3rd ed.</u> W.W. Norton & Company. edited by James W. Endersby
