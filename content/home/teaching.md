@@ -12,14 +12,27 @@ title = "Teaching"
 
 
 # Order that this section will appear in.
-weight = 30
+weight = 57
 
-#One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
 <h2>University of Missouri</h2>
 
-_[Harry S Truman School of Government & Public Affairs](https://politicalscience.missouri.edu)_
+_Future Courses (tentative)_
++ American National Government, POLSC 1100, Spring 2024
++ Politics of the American South, POLSC 4170, Fall 2023
++ Politics of the American South, POLSC 4170, Summer 2023 (asynchronously)
 
-+ Peacekeeping and Intervention, POLSC 4415 - Graduate Instructor, Spring 2022
-+ Introduction to International Relations, POLSC 1400 - Graduate Instructor, Fall 2021
+_Instructor_
++ Program Assessment & Improvement, PUB_AF 4420, Spring 2023
++ Politics of the American South, POLSC 4170, Fall 2022
+
+_Lab Instructor_
++ Introduction to Political Research, POLSC 3000, Spring 2021 and Fall 2021
++ State Government, POLSC 2100, Fall 2020
+
+_Teaching Assistant_
++ History of American Legislatures, POLSC 4141, Spring 2022
++ Congress and Legislative Policy, POLSC 4140, Spring 2022
++ Strategy and Warfare, POLSC 4412, Spring 2020
++ American National Government, POLSC 1100, Fall 2019
