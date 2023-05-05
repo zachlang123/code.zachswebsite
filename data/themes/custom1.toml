@@ -9,13 +9,13 @@ primary = "#0B2161"
 
 # Menu
 menu_primary = "#E0ECF8"
-menu_text = "#0B2161"
-menu_text_active = "#045FB4"
-menu_title = "#0B2161"
+menu_text = "#2AFF20"
+menu_text_active = "#49FF40"
+menu_title = "#0CFF00"
 
 # Home sections
 home_section_odd = "#E1FFDF"
-home_section_even = "#E0ECF8"
+home_section_even = "#C2FFBF"
 
 # links
 link = "#2980B9"
