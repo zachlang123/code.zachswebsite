@@ -30,6 +30,6 @@ weight = 20
 
 <p>Anstett, Robert, & Authement, Jacob. 2022. <a href="https://www.jacobauthement.com/publication/AnstettAuthement2022b">Comparing and Contrasting Political Institutions of the State of Missouri, the United States, and Other States</a> in <u>Readings in American Politics, 3rd ed.</u> edited by James W. Endersby. W.W. Norton & Company. </p>
   
-<p>Lang, Zach. The States Strike Back: The Role of Attorneys General in Multistate Litigation against the Federal Government. (in progress).
+<p>Lang, Zach. The States Strike Back: The Role of Attorneys General in Multistate Litigation against the Federal Government. (in progress). </p>
 
 </div>
