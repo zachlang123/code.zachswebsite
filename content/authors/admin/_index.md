@@ -38,20 +38,20 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: fas
-  link: 'mailto:zplbd7@mail.missouri.edu.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Jacob_Authement
+#  icon_pack: fas
+#  link: 'mailto:zplbd7@mail.missouri.edu.edu'
+# - icon: twitter
+# icon_pack: fab
+#  link: https://twitter.com/Jacob_Authement
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/JacobAuthement
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/jacob-authement-35a986251
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/JacobAuthement
+# - icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/jacob-authement-35a986251
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
