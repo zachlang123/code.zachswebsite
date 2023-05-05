@@ -19,7 +19,7 @@ weight = 57
 <h2>University of Missouri</h2>
 
 _Future Courses (tentative)_
-+ Topics in Political Science: The Politics of Star Wars, POLS 2004, Spring 2024
++ Topics in Political Science: The Politics of Star Wars, POLSC 2004, Spring 2024
 
 _Instructor_
 + American Government, POLSC 1100, Fall 2022
@@ -31,8 +31,8 @@ _Teaching Assistant_
 + Race and the American Story, POLSC 2425, Fall 2020
 + The Intellectual World of the Founders, POLSC 2450, Fall 2020
 + Constitutional Rights, POLSC 4210, Spring 2021
-+ The Constitutional Debates, POLS 2455, Fall 2021, Spring 2022
-+ Elections and Democracy in the US, POLS 4190, Spring 2022
++ The Constitutional Debates, POLSC 2455, Fall 2021, Spring 2022
++ Elections and Democracy in the US, POLSC 4190, Spring 2022
 
 _Student Teacher_
 + AP European History, Hereford High School, MD. Spring 2017
