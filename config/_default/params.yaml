@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 address:
-  street: Locust Street Building, 615 Locust St.
+  street: 410 Jesse Hall, room 401B
   city: Columbia
   region: MO
   postcode: '65201'
@@ -30,12 +30,12 @@ address:
 #coordinates:
   #latitude: '38.94678625'
   #longitude: '-92.32664375085173'
-# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+# directions: Fourth Floor of Jesse Hall
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
-email: jauthement@mail.missouri.edu
+email: zplbd7@mail.missouri.edu
 # phone: 888 888 88 88
 #contact_links:
  # - icon: twitter
