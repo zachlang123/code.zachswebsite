@@ -18,8 +18,11 @@ bio: My research interests include federalism and intergovernmental relations, c
 
 # Interests to show in About widget
 interests:
+- American Government and Politics
 - Federalism and Intergovernmental Relations
 - Constitutionalism 
+- Political Science Fiction and Fantasy
+- Ancient, Medieval, and Modern/Enlightenment Political Thought
 - American Political Behavior
 
 # Education to show in About widget
@@ -67,7 +70,7 @@ social:
 highlight_name: false
 ---
 
-I am a political science PhD candidate at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri and a graduate fellow at the [Kinder Institute on Constitutional Democracy](https://democracy.missouri.edu/). Before moving to Missouri, I received my BA in Government from St. Lawrence University in upstate New York. My subfields are American politics and public policy. My research interests span both American political institutions and political behavior within the study of federalism and constitutionalism. My dissertation examines the rise in multistate litigation against the Federal Government in recent decades and focusses particularly on the political and institutional factors surrounding state attorneys general and their role in this growing phenomenon.
+I am a political science PhD candidate at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) and a graduate fellow at the [Kinder Institute on Constitutional Democracy](https://democracy.missouri.edu/) at the University of Missouri. Before moving to Missouri, I received my BA in Government from St. Lawrence University in upstate New York. My subfields are American politics and public policy. My research interests span both American political institutions and political behavior within the study of federalism and constitutionalism. My dissertation examines the rise in multistate litigation against the Federal Government in recent decades and focusses particularly on the political and institutional factors surrounding state attorneys general and their role in this growing phenomenon.
 
 You can download a copy of my Curriculum Vitae {{< staticref "Lang_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
