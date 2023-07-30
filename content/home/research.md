@@ -30,6 +30,12 @@ weight = 20
 
 <p>Anstett, Robert, & Authement, Jacob. 2022. <a href="https://www.jacobauthement.com/publication/AnstettAuthement2022b">Comparing and Contrasting Political Institutions of the State of Missouri, the United States, and Other States</a> in <u>Readings in American Politics, 3rd ed.</u> edited by James W. Endersby. W.W. Norton & Company. </p>
   
-<p>Lang, Zach (2024). The States Strike Back: The Role of Attorneys General in Multistate Litigation against the Federal Government. (in progress). </p>
+<p>“State Politics in the Early Republic and the Development of the American Executive: Representation, Party Politics, and Executive Selection Mechanisms 1788-1832.” With Aric Gooch. (Under review at Political Research Quarterly). </p>
+
+<p>“Federalism from the Bottom up: State Variation and Partisanship in Multistate Litigation against the Federal Government.” (Under review at American Politics Research). </p>
+
+<p>“Lessons from Dragons: Teaching Political Science with HBO’s House of the Dragon.” With Ronnie Olesker. (Under review at the Journal of Political Science Education). </p>
+
+<p>“The States Strike Back: the Role of Attorneys General in Multistate Litigation against the Federal Government.” (in progress). </p>
 
 </div>
