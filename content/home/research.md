@@ -25,10 +25,6 @@ weight = 20
 <h2>Publications</h2>
 
 <div style="padding-left: 4em; text-indent: -4em;">
-
-<p>Anstett, Robert, & Authement, Jacob. 2022. <a href="https://www.jacobauthement.com/publication/AnstettAuthement2022a">Comparing and Contrasting the U.S. and Missouri Constitutions</a> in <u>Readings in American Politics, 3rd ed.</u> edited by James W. Endersby. W.W. Norton & Company. </p>
-
-<p>Anstett, Robert, & Authement, Jacob. 2022. <a href="https://www.jacobauthement.com/publication/AnstettAuthement2022b">Comparing and Contrasting Political Institutions of the State of Missouri, the United States, and Other States</a> in <u>Readings in American Politics, 3rd ed.</u> edited by James W. Endersby. W.W. Norton & Company. </p>
   
 <p>“State Politics in the Early Republic and the Development of the American Executive: Representation, Party Politics, and Executive Selection Mechanisms 1788-1832.” With Aric Gooch. (Under review at Political Research Quarterly). </p>
 
