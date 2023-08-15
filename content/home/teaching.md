@@ -19,7 +19,7 @@ weight = 57
 <h2>University of Missouri</h2>
 
 _Future Courses (tentative)_
-+ Topics in Political Science: The Politics of Star Wars, POLSC 2004, Spring 2024 test
++ Topics in Political Science: The Politics of Star Wars, POLSC 2004, Spring 2024
 
 _Instructor_
 + American Government, POLSC 1100, Fall 2022
