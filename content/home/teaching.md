@@ -17,9 +17,11 @@ weight = 57
 
 +++
 <h2>Anderson University</h2>
+
+_Assistant Professor_
 + American Government, PS 101, Fall 2024
-+Political Institutions, PS 303, Fall 2024
-+Campaigns and Elections, PS 435, Fall 2024
++ Political Institutions, PS 303, Fall 2024
++ Campaigns and Elections, PS 435, Fall 2024
 
 <h2>University of Missouri</h2>
 
@@ -30,5 +32,5 @@ _Instructor_
 + The Constitutional Debates, POLSC 2455, Fall 2021, Spring 2022
 + Elections and Democracy in the US, POLSC 4190, Spring 2022
 
-_Student Teacher_
+_Substitute Teacher_
 + AP European History, Hereford High School, MD. Spring 2017
