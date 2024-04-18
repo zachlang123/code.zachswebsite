@@ -6,31 +6,30 @@ title: Zach Lang
 superuser: true
 
 # Role/position/tagline
-role: Political Science PhD Candidate
+role: Incoming Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Missouri
+- name: Anderson University
   # url: https://www.missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include federalism and intergovernmental relations, constitutionalism, and American political behavior
+bio: My research interests include federalism and politics, and political science education
 
 # Interests to show in About widget
 interests:
-- American Government and Politics
 - Federalism and Intergovernmental Relations
+- State Politics
 - The Constitution 
-- Political Science Fiction and Fantasy
-- Ancient, Medieval, and Modern/Enlightenment Political Thought
-- American Political Behavior
+- Ancient, Medieval, and Enlightenment Political Thought
+- Ideology and Philosophy
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Political Science
     institution: University of Missouri
-    year: 2024 (expected)
+    year: 2024
   - course: BA in Government
     institution: St. Lawrence University
     year: 2019
@@ -70,7 +69,7 @@ social:
 highlight_name: false
 ---
 
-I am a political science PhD candidate at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) and a graduate fellow at the [Kinder Institute on Constitutional Democracy](https://democracy.missouri.edu/) at the University of Missouri. Before moving to Missouri, I received my BA in Government from St. Lawrence University in upstate New York. My subfields are American politics and public policy. My research interests focus on federalism and intergovernmental relations. My dissertation examines the content of multistate lawsuits against the federal government over the past 40 years, the role that state attorneys general play in them, and the tactics that state coalitions engage in during litigation.
+I am an incoming Assistant Professor of Political Science at Anderson University. Before moving to South Carolina, I received my Ph.D. from the University of Missouri where I was also a fellow at the Kinder Institute on Constitutional Democracy. My subfields are American politics and public policy. My research interests focus on federalism and state politics, and political science education.
 
 You can download a copy of my Curriculum Vitae {{< staticref "Lang_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
