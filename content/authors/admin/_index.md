@@ -73,4 +73,4 @@ I am an incoming Assistant Professor of Political Science at Anderson University
 
 You can download a copy of my Curriculum Vitae {{< staticref "Lang_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
-I was born and raised in the “Hereford Zone,” a rural, agriculture-heavy area outside of Baltimore, Maryland. I was interested in social studies and teaching from a young age. When I’m not working on my dissertation, you can usually find me out running, out with friends, or inside playing through a new video game…a good day is a combination of all three.
+I was born and raised in the “Hereford Zone,” a rural, agriculture-heavy area outside of Baltimore, Maryland. I was interested in social studies and teaching from a young age. When I’m not prepping for classes or doing research, you can usually find me out running, out with friends, or inside playing through a new video game…a good day is a combination of all three.
