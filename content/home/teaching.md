@@ -28,9 +28,6 @@ _Assistant Professor_
 _Instructor_
 + American Government, POLSC 1100, Fall 2022
 + Topics in Political Science: The Politics of Star Wars, POLSC 2004, Fall 2023, Spring 2024
-+ Constitutional Rights, POLSC 4210, Spring 2021
-+ The Constitutional Debates, POLSC 2455, Fall 2021, Spring 2022
-+ Elections and Democracy in the US, POLSC 4190, Spring 2022
 
 _Substitute Teacher_
 + AP European History, Hereford High School, MD. Spring 2017
