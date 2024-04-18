@@ -25,13 +25,9 @@ weight = 20
 <h2>Publications</h2>
 
 <div style="padding-left: 4em; text-indent: -4em;">
-  
-<p>“State Politics in the Early Republic and the Development of the American Executive: Representation, Party Politics, and Executive Selection Mechanisms 1788-1832.” With Aric Gooch. (Under review). </p>
 
-<p>“Federalism from the Bottom up: State Variation and Partisanship in Multistate Litigation against the Federal Government.” (Under review). </p>
+<p>“Lessons from Dragons: Teaching Political Science with HBO’s House of the Dragon.” With Ronnie Olesker (2024). Journal of Political Science Education. </p>
 
-<p>“Lessons from Dragons: Teaching Political Science with HBO’s House of the Dragon.” With Ronnie Olesker. (Under review). </p>
-
-<p>“The States Strike Back: the Role of Attorneys General in Multistate Litigation against the Federal Government.” (in progress). </p>
+<p>“State Politics in the Early Republic and the Development of the American Executive: Representation, Party Politics, and Executive Selection Mechanisms 1788-1832.” With Aric Gooch. (R&R at Congress and the Presidency). </p>
 
 </div>
