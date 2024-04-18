@@ -16,20 +16,16 @@ weight = 57
 
 
 +++
-<h2>University of Missouri</h2>
+<h2>Anderson University</h2>
++ American Government, PS 101, Fall 2024
++Political Institutions, PS 303, Fall 2024
++Campaigns and Elections, PS 435, Fall 2024
 
-_Future Courses (tentative)_
-+ Topics in Political Science: The Politics of Star Wars, POLSC 2004, Spring 2024
+<h2>University of Missouri</h2>
 
 _Instructor_
 + American Government, POLSC 1100, Fall 2022
-+ Topics in Political Science: The Politics of Star Wars, POLSC 2004, Fall 2023
-
-_Teaching Assistant_
-+ Liberty, Justice and the Common Good, POLSC 2800, Fall 2019
-+ American Government, POLSC 1100, Spring 2020
-+ Race and the American Story, POLSC 2425, Fall 2020
-+ The Intellectual World of the Founders, POLSC 2450, Fall 2020
++ Topics in Political Science: The Politics of Star Wars, POLSC 2004, Fall 2023, Spring 2024
 + Constitutional Rights, POLSC 4210, Spring 2021
 + The Constitutional Debates, POLSC 2455, Fall 2021, Spring 2022
 + Elections and Democracy in the US, POLSC 4190, Spring 2022
