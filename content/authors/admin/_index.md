@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include The Constitution, Federalism & State Politics, and Political Science Education
 
 # Interests to show in About widget
-Teaching & Research interests
+Teaching/Research interests
 - The Constitution
 - Federalism and State Politics
 - Modern Political Thought (1650-1975)
