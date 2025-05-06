@@ -6,12 +6,12 @@ title: Zach Lang
 superuser: true
 
 # Role/position/tagline
-role: Incoming Assistant Professor
+role: Assistant Professor of Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Anderson University
-  # url: https://www.missouri.edu
+  # url: https://andersonuniversity.edu/faculty-directory/jsf/jet-engine/tax/departments:584/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include federalism and politics, and political science education
