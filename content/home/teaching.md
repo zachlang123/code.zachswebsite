@@ -23,7 +23,7 @@ _Assistant Professor_
 + PS 301- Public Policy: Spring 2025
 + PS 303- Political Institutions: Fall 2024
 + PS 310- Judicial Process: Spring 2025
-+ PS 399- State and Local Politics: Spring 2025
++ PS 399- State and Local Politics: Fall 2025
 + PS 410- Civil Rights and Civil Liberties: Fall 2025
 + PS 435- Campaigns and Elections: Fall 2024
 + CON 399- The Politics of Star Wars: Spring 2025
