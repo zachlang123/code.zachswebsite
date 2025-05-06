@@ -14,15 +14,14 @@ organizations:
   # url: https://andersonuniversity.edu/faculty-directory/jsf/jet-engine/tax/departments:584/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include federalism and politics, and political science education
+bio: My research interests include The Constitution, Federalism & State Politics, and Political Science Education
 
 # Interests to show in About widget
 interests:
-- Federalism and Intergovernmental Relations
-- State Politics
-- The Constitution 
-- Ancient, Medieval, and Enlightenment Political Thought
-- Ideology and Philosophy
+- The Constitution
+- Federalism and State Politics
+- Modern Political Thought (1650-1975)
+- Judicial Process/Politics
 
 # Education to show in About widget
 education:
@@ -69,7 +68,7 @@ social:
 highlight_name: false
 ---
 
-I am an incoming Assistant Professor of Political Science at Anderson University. Before moving to South Carolina, I received my Ph.D. from the University of Missouri where I was also a fellow at the Kinder Institute on Constitutional Democracy. My subfields are American politics and public policy. My research interests focus on federalism and state politics, and political science education.
+I am an Assistant Professor of Political Science at Anderson University. Before moving to South Carolina, I received my Ph.D. from the University of Missouri where I was also a PhD fellow at the Kinder Institute on Constitutional Democracy. My subfields are American politics and public policy. There are two veins of my research, one that focusses on The Constitution, federalism, and state politics, and one that focusses on political science education.
 
 You can download a copy of my Curriculum Vitae {{< staticref "Lang_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
