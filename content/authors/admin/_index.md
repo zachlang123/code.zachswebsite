@@ -68,7 +68,7 @@ social:
 highlight_name: false
 ---
 
-I am an Assistant Professor of Political Science at Anderson University. Before moving to South Carolina, I received my Ph.D. from the University of Missouri where I was also a PhD fellow at the Kinder Institute on Constitutional Democracy. My subfields are American politics and public policy. There are two veins of my research: one that focusses on The Constitution, federalism, and state politics, and one that focusses on political science education.
+I am an Assistant Professor of Political Science at Anderson University. Before moving to South Carolina, I received my Ph.D. from the University of Missouri where I was also a PhD fellow at the Kinder Institute on Constitutional Democracy. My subfields are American politics and public policy. There are two veins of my research: one that focusses on the Constitution, federalism, and state politics, and one that focusses on political science education.
 
 You can download a copy of my Curriculum Vitae {{< staticref "Lang_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
