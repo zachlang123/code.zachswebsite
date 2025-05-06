@@ -28,12 +28,12 @@ weight = 20
 
 <p>“Lessons from Dragons: Teaching Political Science with HBO’s House of the Dragon.” With Ronnie Olesker (2024). Journal of Political Science Education. </p>
 
-<p>“State Politics in the Early Republic and the Development of the American Executive: Representation, Party Politics, and Executive Selection Mechanisms 1788-1832.” With Aric Gooch. (R&R at Congress and the Presidency). </p>
-
 <h2>Book Chapters</h2>
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
-<p>testing. </p>
+<p>Red Tape: A Bureaucratic Politics Game in Beating the Clock: The Power of Short Games and Active Learning in the Political Science Classroom (Forthcoming 2025) edited by Mark Harvey, James Fielder, Ryan Gibb, and Derek Glasgow. Taylor and Francis: Routledge Press. </p>
+
+<p>GalactiVote: Government in Action! An American Government Video Game with Hillary Gould and Tori Mondelli. in Lecture Notes in Computer Science (2025) edited by J.L. Plass and X. Ochea: Springer Nature Switzerland. Originally accepted for the Joint International Conference on Serious Games: New York University (2024).</p>
 
 </div>
