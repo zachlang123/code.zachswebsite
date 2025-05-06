@@ -38,5 +38,5 @@ design:
 </style>
 
 <div class="google-maps">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3102.8723295350364!2d-92.33226038484517!3d38.9497449514623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87dcb7c5c5978b3d%3A0xf7ac560c262ce7a9!2sLocust%20Street%20Bldg%2C%20Columbia%2C%20MO%2065201!5e0!3m2!1sen!2sus!4v1661967040459!5m2!1sen!2sus" width="600" height="450" style="border:0"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3844.0214096403015!2d-82.64206008815394!3d34.51461187287374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88586c2e16cebfc1%3A0xc6467d7192b53cf9!2sAnderson%20University!5e1!3m2!1sen!2sus!4v1746544370707!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" width="600" height="450" style="border:0"></iframe>
 </div>
