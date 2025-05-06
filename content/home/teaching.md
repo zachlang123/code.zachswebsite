@@ -19,15 +19,17 @@ weight = 57
 <h2>Anderson University</h2>
 
 _Assistant Professor_
-+ American Government, PS 101, Fall 2024
-+ Political Institutions, PS 303, Fall 2024
-+ Campaigns and Elections, PS 435, Fall 2024
++ PS 101- American National Government: Fall 2024, Spring 2025, Fall 2025
++ PS 301- Public Policy: Spring 2025
++ PS 303- Political Institutions: Fall 2024
++ PS 310- Judicial Process: Spring 2025
++ PS 399- State and Local Politics: Spring 2025
++ PS 410- Civil Rights and Civil Liberties: Fall 2025
++ PS 435- Campaigns and Elections- Fall 2024
++ CON 399- The Politics of Star Wars- Spring 2025
 
 <h2>University of Missouri</h2>
 
 _Instructor_
-+ American Government, POLSC 1100, Fall 2022
-+ Topics in Political Science: The Politics of Star Wars, POLSC 2004, Fall 2023, Spring 2024
-
-_Substitute Teacher_
-+ AP European History, Hereford High School, MD. Spring 2017
++ POLSC 1100- American Government: Fall 2022
++ POLSC 2004- The Politics of Star Wars: Fall 2023, Spring 2024
