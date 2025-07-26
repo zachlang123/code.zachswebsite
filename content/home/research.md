@@ -28,6 +28,8 @@ weight = 20
 
 <p>“Lessons from Dragons: Teaching Political Science with HBO’s House of the Dragon.” With Ronnie Olesker (2024). Journal of Political Science Education. </p>
 
+<p> "Unlimited Power: Energy Policy, State Politics, and Multistate Litigation against the Federal Government." (2025). Invited for special issue: Annual Review of Federalism. Publius: The Journal of Federalism. </p>
+
 <h2>Book Chapters</h2>
 
 <div style="padding-left: 4em; text-indent: -4em;">
