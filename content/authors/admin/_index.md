@@ -20,8 +20,9 @@ bio: My research interests include The Constitution, Federalism & State Politics
 Interests:
 - The Constitution
 - Federalism and State Politics
+- Judicial Process and Politics
+- American Political Thought (1755-1825)
 - Modern Political Thought (1650-1975)
-- Judicial Process/Politics
 
 # Education to show in About widget
 education:
