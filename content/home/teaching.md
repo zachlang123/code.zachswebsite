@@ -19,14 +19,17 @@ weight = 57
 <h2>Anderson University</h2>
 
 _Assistant Professor_
-+ PS 101- American National Government: Fall 2024, Spring 2025, Fall 2025
++ PS 101- American National Government: Fall 2024, Spring 2025, Fall 2025, Spring 2026
++ PS 102- State and Local Government: Fall 2025
 + PS 301- Public Policy: Spring 2025
 + PS 303- Political Institutions: Fall 2024
 + PS 310- Judicial Process: Spring 2025
++ PS 399- Political Thought: Spring 2026
 + PS 399- State and Local Politics: Fall 2025
++ PS/HIS 399- The Constitutional Debates: Spring 2026
 + PS 410- Civil Rights and Civil Liberties: Fall 2025
 + PS 435- Campaigns and Elections: Fall 2024
-+ CON 399- The Politics of Star Wars: Spring 2025
++ CON 399- The Politics of Star Wars: Spring 2025, Spring 2026
 
 <h2>University of Missouri</h2>
 
